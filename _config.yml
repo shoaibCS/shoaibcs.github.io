@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Shoaib Asif Qazi"
   avatar           : "shoaib.jpeg"
-  bio              : "Phd student at Virginia Tech"
+  bio              : #"PhD student at Virginia Tech"
   location         : "Blacksburg"
   employer         :
-  pubmed           : "https://shoaibcs.github.io/"
+  pubmed           : #"https://shoaibcs.github.io/"
   googlescholar    : "https://scholar.google.com/citations?user=DAwPEpcAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
